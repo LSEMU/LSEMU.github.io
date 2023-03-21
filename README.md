@@ -69,7 +69,7 @@
         </section>
         <section>
                 <h2>Founding Members</h2>
-                <p>Our society was founded in 2015 by a group of passionate Mauritian students who wanted to share their love for their homeland with others. They worked hard to establish a platform where students could come together to celebrate Mauritian culture and traditions.</p>
+                <p>Our society was re-founded in 2023 by a group of passionate Mauritian students who wanted to share their love for their homeland with others. They worked hard to establish a platform where students could come together to celebrate Mauritian culture and traditions.</p>
                 <img src="founding_members.jpg" alt="Founding Members">
         </section>
 </body>
